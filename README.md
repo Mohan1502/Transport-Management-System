@@ -81,40 +81,6 @@ This project demonstrates important Java Object-Oriented Programming concepts, i
 * Object Creation
 * Method Calling
 
-## How to Run the Project
-
-### Step 1: Install Java
-
-Make sure Java JDK is installed on your computer.
-
-Check the Java version using:
-
-```bash
-java -version
-```
-
-### Step 2: Open the Project
-
-Download or clone this repository and open the project folder in **Visual Studio Code**.
-
-### Step 3: Compile the Program
-
-Open the VS Code terminal and run:
-
-```bash
-javac Main.java
-```
-
-### Step 4: Run the Program
-
-Execute the application using:
-
-```bash
-java Main
-```
-
-##  Modules
-
 The Transport Management System contains the following main modules:
 
 1. **Customer Module**
