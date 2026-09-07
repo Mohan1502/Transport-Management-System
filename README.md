@@ -27,23 +27,23 @@ The system aims to:
 
 The Customer module is used to maintain customer-related information. It can store details such as customer ID, name, contact information, and other required details.
 
-### 🚗 Driver Management
+###  Driver Management
 
 The Driver module helps maintain driver information. Driver records can be managed using unique driver details and contact information.
 
-### 🚘 Vehicle Management
+###  Vehicle Management
 
 The Vehicle module is used to maintain transportation vehicle details such as vehicle number, vehicle type, model, and other vehicle-related information.
 
-### 🛣️ Trip Management
+###  Trip Management
 
 The Trip module manages trip-related information such as trip ID, customer, driver, vehicle, source, destination, and trip details.
 
-### 🏠 Main Application
+###  Main Application
 
 The Main class acts as the starting point of the application. It can be used to execute the program and interact with the different modules of the Transport Management System.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose                   |
 | ---------- | ------------------------- |
@@ -54,7 +54,7 @@ The Main class acts as the starting point of the application. It can be used to 
 | Git        | Version Control           |
 | GitHub     | Project Hosting           |
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 TransportManagementSystem/
