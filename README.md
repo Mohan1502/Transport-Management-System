@@ -1,12 +1,12 @@
-# 🚍 Transport Management System
+# Transport Management System
 
-## 📌 Project Description
+##  Project Description
 
 The **Transport Management System** is a Java-based software application developed to manage and organize transportation-related activities efficiently. The system helps administrators manage customers, drivers, vehicles, and trips in a simple and organized way. It reduces manual paperwork and makes transport operations easier to maintain.
 
 This project is developed using **Core Java** and follows Object-Oriented Programming concepts such as classes, objects, encapsulation, inheritance, and methods. The application provides a structured approach to storing and managing transport information.
 
-## 🎯 Objectives
+##  Objectives
 
 The main objective of this project is to develop a simple and efficient transportation management application that can manage important transport details in one system.
 
@@ -21,9 +21,9 @@ The system aims to:
 * Improve data management
 * Provide an easy-to-use application structure
 
-## ✨ Features
+##  Features
 
-### 👤 Customer Management
+###  Customer Management
 
 The Customer module is used to maintain customer-related information. It can store details such as customer ID, name, contact information, and other required details.
 
@@ -68,7 +68,7 @@ TransportManagementSystem/
 └── README.md
 ```
 
-## 📚 OOP Concepts Used
+##  OOP Concepts Used
 
 This project demonstrates important Java Object-Oriented Programming concepts, including:
 
@@ -81,7 +81,7 @@ This project demonstrates important Java Object-Oriented Programming concepts, i
 * Object Creation
 * Method Calling
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 ### Step 1: Install Java
 
@@ -113,7 +113,7 @@ Execute the application using:
 java Main
 ```
 
-## 📋 Modules
+##  Modules
 
 The Transport Management System contains the following main modules:
 
@@ -125,7 +125,7 @@ The Transport Management System contains the following main modules:
 
 These modules work together to provide a basic transport management solution.
 
-## 🔄 System Workflow
+## System Workflow
 
 ```text
 Start Application
@@ -143,7 +143,7 @@ Display / Manage Transport Details
 End Application
 ```
 
-## 💡 Advantages
+## Advantages
 
 * Simple and easy to understand
 * Reduces manual record maintenance
@@ -153,7 +153,7 @@ End Application
 * Suitable for academic and beginner-level projects
 * Can be extended with a database and graphical user interface
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 The project can be improved in the future by adding:
 
